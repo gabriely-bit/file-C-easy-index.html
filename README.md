@@ -1,1 +1,1 @@
-# file-C-easy-index.html
+file://C:/easy/index.html
